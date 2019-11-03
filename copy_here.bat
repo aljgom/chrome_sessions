@@ -23,7 +23,7 @@ robocopy "%CD%" "%CD%\old" "Current Session" "Current Tabs" "Last Session" "Last
 
 C:\Windows\System32\taskkill.exe -f -im chrome.exe
 
-timeout 1
+timeout 4
 
 robocopy "%HOMEPATH%\AppData\Local\Google\Chrome\User Data\Default" "%CD%" "Current Session" "Current Tabs" "Last Session" "Last Tabs"
 
