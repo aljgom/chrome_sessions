@@ -9,3 +9,5 @@ copy_here.bat copies the current and last session into this folder, and makes co
 You can use "restoreCurrent.bat" and it will restore the session using "Current Session" and "Current Tabs"
 
 You can use "restoreLast.bat" and it will restore the session using "Last Session" and "Last Tabs"
+
+![demo](https://github.com/aljgom/chrome_sessions/blob/master/demo_video/demo.gif)
