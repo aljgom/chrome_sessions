@@ -24,7 +24,7 @@ echo ***************************************************************************
 echo.
 echo ** Starting Chrome
 echo.
-    "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
+    start " " "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
 echo.
 echo.
 
