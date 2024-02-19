@@ -11,3 +11,8 @@ You can use "restore_newest_from_here.bat" and it will restore the newest sessio
 I haven't update the demo video, but it should be basically the same, except now there is no "restore_last.bat" script, but to restore previous sessions you can run "restore_from_here.bat" from the "/old" and "/older" folders
 
 ![demo](https://github.com/aljgom/chrome_sessions/blob/master/demo_video/demo.gif)
+
+
+### Multiple Chrome Profiles
+
+To use the script on multiple profiles, I have a copy of this whole folder for each Chrome profile that I want to use it on. Then, in each of the folders I edit the paths in the batch files to match the path of the profile. (The current path matches the Default Profile)
